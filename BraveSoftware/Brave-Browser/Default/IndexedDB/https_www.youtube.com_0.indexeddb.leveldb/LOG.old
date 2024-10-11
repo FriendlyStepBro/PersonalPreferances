@@ -1,0 +1,30 @@
+2024/10/07-21:05:36.474 929 Reusing MANIFEST /home/fsb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/07-21:05:36.474 929 Recovering log #28
+2024/10/07-21:05:36.475 929 Reusing old log /home/fsb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000028.log 
+2024/10/07-21:05:36.475 929 Delete type=2 #23
+2024/10/07-21:05:36.475 929 Delete type=2 #25
+2024/10/07-21:05:36.475 929 Delete type=2 #20
+2024/10/07-21:05:36.475 929 Delete type=2 #21
+2024/10/07-21:05:36.475 929 Delete type=2 #16
+2024/10/07-21:05:36.475 929 Delete type=2 #18
+2024/10/07-21:05:36.531 95d Level-0 table #35: started
+2024/10/07-21:05:36.532 95d Level-0 table #35: 72547 bytes OK
+2024/10/07-21:05:36.533 95d Delete type=0 #28
+2024/10/07-21:05:36.533 928 Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/07-21:05:36.533 928 Manual compaction at level-1 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0c\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00\xf0?\x03\x00\x00\xae\xf0i&yB\x00\x03\x00\x00\x00\x00\x00\x00\x10@' @ 19702 : 1
+2024/10/07-21:05:36.533 928 Compacting 1@1 + 1@2 files
+2024/10/07-21:05:36.534 928 Generated table #36@1: 148 keys, 31281 bytes
+2024/10/07-21:05:36.534 928 Compacted 1@1 + 1@2 files => 31281 bytes
+2024/10/07-21:05:36.535 928 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/07-21:05:36.535 928 Delete type=2 #35
+2024/10/07-21:05:36.535 928 Manual compaction at level-1 from '\x00\x0c\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00\xf0?\x03\x00\x00\xae\xf0i&yB\x00\x03\x00\x00\x00\x00\x00\x00\x10@' @ 19702 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/08-19:43:15.910 929 Level-0 table #38: started
+2024/10/08-19:43:15.934 929 Level-0 table #38: 1313454 bytes OK
+2024/10/08-19:43:15.935 929 Delete type=0 #34
+2024/10/08-19:43:15.935 929 Delete type=2 #32
+2024/10/08-19:56:24.442 929 Compacting 1@1 + 1@2 files
+2024/10/08-19:56:24.465 929 Generated table #39@1: 314 keys, 39083 bytes
+2024/10/08-19:56:24.465 929 Compacted 1@1 + 1@2 files => 39083 bytes
+2024/10/08-19:56:24.476 929 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/08-19:56:24.477 929 Delete type=2 #36
+2024/10/08-19:56:24.477 929 Delete type=2 #38

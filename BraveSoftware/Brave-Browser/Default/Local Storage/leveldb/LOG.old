@@ -1,0 +1,42 @@
+2024/10/07-17:46:45.649 4 Reusing MANIFEST /home/fsb/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2024/10/07-17:46:45.656 4 Recovering log #13
+2024/10/07-17:46:45.656 4 Reusing old log /home/fsb/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000013.log 
+2024/10/07-17:46:55.756 4 Level-0 table #17: started
+2024/10/07-17:46:55.777 4 Level-0 table #17: 17170 bytes OK
+2024/10/07-17:46:55.790 4 Delete type=0 #13
+2024/10/07-18:46:25.799 4 Level-0 table #19: started
+2024/10/07-18:46:25.821 4 Level-0 table #19: 187285 bytes OK
+2024/10/07-18:46:25.823 4 Delete type=0 #16
+2024/10/07-18:46:25.823 4 Compacting 4@0 + 1@1 files
+2024/10/07-18:46:25.833 4 Generated table #20@0: 127 keys, 205664 bytes
+2024/10/07-18:46:25.833 4 Compacted 4@0 + 1@1 files => 205664 bytes
+2024/10/07-18:46:25.834 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/07-18:46:25.834 4 Delete type=2 #11
+2024/10/07-18:46:25.834 4 Delete type=2 #14
+2024/10/07-18:46:25.834 4 Delete type=2 #19
+2024/10/07-18:46:25.834 4 Delete type=2 #8
+2024/10/07-18:46:25.834 4 Delete type=2 #17
+2024/10/07-20:29:20.533 5 Level-0 table #22: started
+2024/10/07-20:29:20.555 5 Level-0 table #22: 698430 bytes OK
+2024/10/07-20:29:20.568 5 Delete type=0 #18
+2024/10/07-20:50:24.707 5 Level-0 table #24: started
+2024/10/07-20:50:24.710 5 Level-0 table #24: 18543 bytes OK
+2024/10/07-20:50:24.712 5 Delete type=0 #21
+2024/10/07-20:55:28.926 5 Level-0 table #26: started
+2024/10/07-20:55:28.945 5 Level-0 table #26: 25440 bytes OK
+2024/10/07-20:55:28.946 5 Delete type=0 #23
+2024/10/08-19:22:06.908 4 Level-0 table #28: started
+2024/10/08-19:22:06.928 4 Level-0 table #28: 23675 bytes OK
+2024/10/08-19:22:06.942 4 Delete type=0 #25
+2024/10/08-19:22:06.943 4 Compacting 4@0 + 1@1 files
+2024/10/08-19:22:06.950 4 Generated table #29@0: 215 keys, 913194 bytes
+2024/10/08-19:22:06.950 4 Compacted 4@0 + 1@1 files => 913194 bytes
+2024/10/08-19:22:06.951 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/08-19:22:06.953 4 Delete type=2 #20
+2024/10/08-19:22:06.953 4 Delete type=2 #24
+2024/10/08-19:22:06.953 4 Delete type=2 #26
+2024/10/08-19:22:06.953 4 Delete type=2 #22
+2024/10/08-19:22:06.953 4 Delete type=2 #28
+2024/10/08-21:16:02.541 4 Level-0 table #31: started
+2024/10/08-21:16:02.563 4 Level-0 table #31: 29501 bytes OK
+2024/10/08-21:16:02.576 4 Delete type=0 #27

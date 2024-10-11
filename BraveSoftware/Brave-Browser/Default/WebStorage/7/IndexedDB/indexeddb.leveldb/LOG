@@ -1,0 +1,7 @@
+2024/09/07-23:40:08.745 831 Reusing MANIFEST /home/fsb/.config/BraveSoftware/Brave-Browser/Default/WebStorage/7/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/09/07-23:40:08.745 831 Recovering log #3
+2024/09/07-23:40:08.746 831 Reusing old log /home/fsb/.config/BraveSoftware/Brave-Browser/Default/WebStorage/7/IndexedDB/indexeddb.leveldb/000003.log 
+2024/09/07-23:40:08.823 848 Level-0 table #5: started
+2024/09/07-23:40:08.824 848 Level-0 table #5: 8201 bytes OK
+2024/09/07-23:40:08.824 848 Delete type=0 #3
+2024/09/07-23:40:08.825 848 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

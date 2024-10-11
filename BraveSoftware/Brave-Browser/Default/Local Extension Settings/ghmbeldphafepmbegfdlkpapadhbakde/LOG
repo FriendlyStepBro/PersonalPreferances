@@ -1,0 +1,27 @@
+2024/10/10-15:30:29.404 99a Reusing MANIFEST /home/fsb/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/ghmbeldphafepmbegfdlkpapadhbakde/MANIFEST-000001
+2024/10/10-15:30:29.404 99a Recovering log #8
+2024/10/10-15:30:29.407 99a Reusing old log /home/fsb/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/ghmbeldphafepmbegfdlkpapadhbakde/000008.log 
+2024/10/10-15:32:55.077 99b Level-0 table #12: started
+2024/10/10-15:32:55.165 99b Level-0 table #12: 3596270 bytes OK
+2024/10/10-15:32:55.166 99b Delete type=0 #8
+2024/10/11-10:38:41.722 99b Level-0 table #14: started
+2024/10/11-10:38:41.809 99b Level-0 table #14: 3186623 bytes OK
+2024/10/11-10:38:41.811 99b Delete type=0 #11
+2024/10/11-12:30:02.663 99b Level-0 table #16: started
+2024/10/11-12:30:02.749 99b Level-0 table #16: 3157408 bytes OK
+2024/10/11-12:30:02.751 99b Delete type=0 #13
+2024/10/11-12:30:02.752 99b Compacting 4@0 + 1@1 files
+2024/10/11-12:30:02.764 99b Generated table #17@0: 6 keys, 606648 bytes
+2024/10/11-12:30:02.764 99b Compacted 4@0 + 1@1 files => 606648 bytes
+2024/10/11-12:30:02.765 99b compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/11-12:30:02.765 99b Delete type=2 #14
+2024/10/11-12:30:02.765 99b Delete type=2 #9
+2024/10/11-12:30:02.765 99b Delete type=2 #16
+2024/10/11-12:30:02.765 99b Delete type=2 #12
+2024/10/11-12:30:02.765 99b Delete type=2 #7
+2024/10/11-13:56:28.445 99a Level-0 table #19: started
+2024/10/11-13:56:28.472 99a Level-0 table #19: 3117598 bytes OK
+2024/10/11-13:56:28.473 99a Delete type=0 #15
+2024/10/11-15:36:53.939 99b Level-0 table #21: started
+2024/10/11-15:36:53.966 99b Level-0 table #21: 3189786 bytes OK
+2024/10/11-15:36:53.967 99b Delete type=0 #18
