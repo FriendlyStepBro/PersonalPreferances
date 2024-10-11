@@ -1,8 +1,10 @@
 return {
     'nvim-lualine/lualine.nvim',
     config = function()
-        options = {
-            theme = 'carbonfox'
-        }
+        require('lualine').setup({
+            options = {
+                theme = 'carbonfox'
+            }
+        })
     end
 }
