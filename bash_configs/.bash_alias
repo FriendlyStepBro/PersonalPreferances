@@ -1,1 +1,14 @@
-../../.bash_alias
+#--Default Aliases
+alias ls='ls --color=auto'
+alias la='ls -a'
+alias grep='grep --color=auto'
+alias bat='bat --color=auto'
+
+#--Source Reload
+alias rld='source ~/.bashrc'
+alias rlda='source ~/.bash_alias'
+
+#--FZF Aliases
+alias fp='fzf -m --preview="bat --color=always {}"'
+alias nfp='nvim $(fzf -m --preview="bat --color=always {}")'
+
