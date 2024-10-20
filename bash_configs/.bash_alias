@@ -12,3 +12,5 @@ alias rlda='source ~/.bash_alias'
 alias fp='fzf -m --preview="bat --color=always {}"'
 alias nfp='nvim $(fzf -m --preview="bat --color=always {}")'
 
+
+alias py='python'
