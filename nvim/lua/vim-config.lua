@@ -5,5 +5,21 @@ vim.cmd("set shiftwidth=3")
 vim.cmd("set relativenumber")
 vim.cmd("set number")
 vim.cmd("set scrolloff=999")
-vim.g.mapleader = " "
 vim.cmd("set mouse=")
+
+vim.keymap.set('n', '<Space>', '<NOP>', { noremap = true, silent = true })
+vim.keymap.set('v', '<Space>', '<NOP>', { noremap = true, silent = true })
+vim.g.mapleader = " "
+
+-- additional keybinds
+vim.keymap.set('n', '<leader>fq', ":qa!<CR>", {})
+vim.keymap.set('n', '<leader>wq', ":wa<CR>:qa<CR>:", {})
+
+vim.keymap.set('n', '<leader>h', '^', { noremap = false, silent = true })
+vim.keymap.set('n', '<leader>l', '$', { noremap = false, silent = true })
+vim.keymap.set('v', '<leader>h', '^', { noremap = false, silent = true })
+vim.keymap.set('v', '<leader>l', '$', { noremap = false, silent = true })
+
+-- insert line about without entering insert mode
+vim.keymap.set('n', '<leader>o', 'm`o<Esc>``', { noremap = false, silent = true })
+vim.keymap.set('n', '<leader>O', 'm`O<Esc>``', { noremap = false, silent = true })
