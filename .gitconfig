@@ -1,0 +1,2 @@
+[alias]
+   ignoreall = grep '?? ' <(git status --porcelain) | sed 's/^?? //' >> .gitignore
