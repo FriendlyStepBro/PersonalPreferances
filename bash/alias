@@ -6,6 +6,9 @@ alias bat='bat --color=always'
 alias svim='sudoedit'
 alias ~='/home/fsb'
 
+#--Config Commands
+alias updateConfig='echo <(cd ~/.config && git commit -a -m "Updated Config" && git push)'
+
 #--Source Reload
 alias rld='source ~/.bashrc'
 alias rlda='source ~/.bash_alias'
