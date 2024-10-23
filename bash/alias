@@ -7,7 +7,7 @@ alias svim='sudoedit'
 alias ~='/home/fsb'
 
 #--Config Commands
-alias updateConfig='echo <(cd ~/.config && git commit -a -m "Updated Config" && git push)'
+alias updateConfig='echo <(cd ~/.config && git commit -a -m "Updated Config" && git fetch && git push)'
 
 #--Source Reload
 alias rld='source ~/.bashrc'
