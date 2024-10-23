@@ -23,6 +23,7 @@ alias pyvenv='source /home/fsb/python/venv/bin/activate'
 
 #--Ollama Auto Load Model
 alias ol32='ollama run llama3.2:3b'
+alias ast='ollama run assistant'
 
 #--Pacman Aliases
 alias pacman='sudo pacman'
