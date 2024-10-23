@@ -16,4 +16,4 @@ local opts = {}
 require("lazy").setup(plugins, opts)
 
 local ToggleMouse = require("mouse-functions")
-vim.keymap.set("n", "<C-A-S-m>", ":lua ToggleMouse()<CR>", { noremap = true, silent = true })
+vim.keymap.set("n", "<A-S-c>", ":lua ToggleMouse()<CR>", { noremap = true, silent = true })

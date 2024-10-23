@@ -1,3 +1,4 @@
+#!/bin/bash
 clear
 #--Check if neofetch is installed and run it
 if type -P neofetch &> /dev/null; then 
