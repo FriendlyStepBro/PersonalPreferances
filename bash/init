@@ -1,10 +1,15 @@
 #!/bin/bash
 clear
 #--Check if neofetch is installed and run it
-if type -P neofetch &> /dev/null; then 
-	neofetch
-else
-	echo "Error: NeoFetch not installed."
+if [ -z "$TERMINAL_LAUNCHED" ]; then
+    TERMINAL_LAUNCHED=true
+    if type -P neofetch &> /dev/null; then
+        if [ -z "$TMUX" ]; then
+            neofetch
+        fi
+    else
+        echo "Error: NeoFetch not installed."
+    fi
 fi
 
 #--Check if Oh-My-Posh is installed and run it

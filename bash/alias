@@ -27,3 +27,6 @@ alias ast='ollama run assistant'
 
 #--Pacman Aliases
 alias pacman='sudo pacman'
+
+#--Tmux Aliases
+# alias tmux='tmux --rcfile ~/.bashrc'

@@ -2,10 +2,12 @@ vim.cmd("set expandtab")
 vim.cmd("set tabstop=3")
 vim.cmd("set softtabstop=3")
 vim.cmd("set shiftwidth=3")
-vim.cmd("set relativenumber")
-vim.cmd("set number")
 vim.cmd("set scrolloff=999")
 vim.cmd("set mouse=")
+-- vim.cmd("set wildmenu=true")
+
+vim.opt.relativenumber = true
+vim.opt.number = true
 
 vim.keymap.set('n', '<Space>', '<NOP>', { noremap = true, silent = true })
 vim.keymap.set('v', '<Space>', '<NOP>', { noremap = true, silent = true })
@@ -23,3 +25,6 @@ vim.keymap.set('v', '<leader>l', '$', { noremap = false, silent = true })
 -- insert line about without entering insert mode
 vim.keymap.set('n', '<leader>o', 'm`o<Esc>``', { noremap = false, silent = true })
 vim.keymap.set('n', '<leader>O', 'm`O<Esc>``', { noremap = false, silent = true })
+
+vim.keymap.set('n', '<leader>p', '"+p', { noremap = false, silent = true})
+vim.keymap.set('v', '<leader>y', '"+y', { noremap = false, silent = true})
