@@ -13,3 +13,9 @@ ibux/
 gh/
 Yubico/
 menus/
+.gsd-keyboard.settings-ported
+dconf/
+evolution/
+mimeapps.list
+user-dirs.dirs
+user-dirs.locale
