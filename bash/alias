@@ -30,3 +30,12 @@ alias pacman='sudo pacman'
 
 #--Tmux Aliases
 # alias tmux='tmux --rcfile ~/.bashrc'
+
+#--Vim Be Good
+alias vbg='sudo docker run -it --rm brandoncc/vim-be-good:stable'
+
+#--Wifi & Bluetooth scripts
+alias disableWiFi='~/.config/scripts/trx/disableWiFi.sh'
+alias enableWiFi='~/.config/scripts/trx/enableWiFi.sh'
+alias disableBluetooth='~/.config/scripts/trx/disableBluetooth.sh'
+alias enableBluetooth='~/.config/scripts/trx/enableBluetooth.sh'

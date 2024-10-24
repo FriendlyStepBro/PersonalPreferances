@@ -28,3 +28,9 @@ vim.keymap.set('n', '<leader>O', 'm`O<Esc>``', { noremap = false, silent = true 
 
 vim.keymap.set('n', '<leader>p', '"+p', { noremap = false, silent = true})
 vim.keymap.set('v', '<leader>y', '"+y', { noremap = false, silent = true})
+
+--vim.keymap.set('v', '<leader>j', ':move v:count+1<CR>gv', { noremap = true, silent = true })
+--vim.keymap.set('v', '<leader>k', ':move .-2<CR>gv', { noremap = true, silent = true })
+
+vim.keymap.set('n', '<leader>j', ':move +1<CR>', { noremap = true, silent = true })
+vim.keymap.set('n', '<leader>k', ':move -2<CR>', { noremap = true, silent = true })
