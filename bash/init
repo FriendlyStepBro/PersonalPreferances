@@ -1,4 +1,7 @@
 #!/bin/bash
+
+export HISTFILESIZE=0
+
 clear
 #--Check if neofetch is installed and run it
 if [ -z "$TERMINAL_LAUNCHED" ]; then
