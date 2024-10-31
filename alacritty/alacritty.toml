@@ -12,7 +12,7 @@ x = 5
 y = 5
 
 [font]
-size = 13.0
+size = 13
 
 [font.bold]
 family = "Hurmit Nerd Font"
