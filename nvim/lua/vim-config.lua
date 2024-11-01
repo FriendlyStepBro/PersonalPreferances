@@ -27,6 +27,7 @@ vim.keymap.set('n', '<leader>o', 'm`o<Esc>``', { noremap = false, silent = true 
 vim.keymap.set('n', '<leader>O', 'm`O<Esc>``', { noremap = false, silent = true })
 
 vim.keymap.set('n', '<leader>p', '"+p', { noremap = false, silent = true})
+vim.keymap.set('n', '<leader>y', '"+yy', { noremap = false, silent = true})
 vim.keymap.set('v', '<leader>y', '"+y', { noremap = false, silent = true})
 
 --vim.keymap.set('v', '<leader>j', ':move v:count+1<CR>gv', { noremap = true, silent = true })

@@ -15,22 +15,22 @@ y = 5
 size = 13
 
 [font.bold]
-family = "Hurmit Nerd Font"
+family = "Jet Brains Mono Nerd Font"
 style = "Heavy"
 
 [font.bold_italic]
 
-family = "Hurmit Nerd Font"
+family = "Jet Brains Mono Nerd Font"
 style = "Heavy Italic"
 
 [font.italic]
 
-family = "Hurmit Nerd Font"
+family = "Jet Brains Mono Nerd Font"
 style = "Medium Italic"
 
 [font.normal]
 
-family = "Hurmit Nerd Font"
+family = "Jet Brains Mono Nerd Font"
 style = "Medium"
 
 [general]

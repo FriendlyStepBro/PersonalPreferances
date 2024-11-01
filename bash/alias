@@ -3,6 +3,7 @@ alias ls='ls --color=auto'
 alias la='ls -a'
 alias grep='grep --color=auto'
 alias bat='bat --color=always'
+alias ibat='sxiv -A 10'
 alias svim='sudoedit'
 alias ~='/home/fsb'
 
