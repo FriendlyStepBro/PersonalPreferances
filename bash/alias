@@ -5,14 +5,13 @@ alias grep='grep --color=auto'
 alias bat='bat --color=always'
 alias ibat='sxiv -A 10'
 alias svim='sudoedit'
-alias ~='/home/fsb'
+alias omp='oh-my-posh'
 
 #--Config Commands
 alias updateConfig='echo <(cd ~/.config && git commit -a -m "Updated Config" && git fetch && git push)'
 
 #--Source Reload
 alias rld='source ~/.bashrc'
-alias rlda='source ~/.bash_alias'
 
 #--FZF Aliases
 alias fp='fzf -m --preview="bat --color=always {}"'

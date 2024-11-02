@@ -2,9 +2,9 @@
 # [[ $- != *i* ]] && return
 
 # Loads individual scripts if they exist
-[[ -f ~/.config/bash/.init ]] && source ~/.init
-[[ -f ~/.config/bash/.alias ]] && source ~/.alias
-[[ -f ~/.config/bash/.env ]] && source ~/.env
+[[ -f ~/.config/bash/init ]] && source ~/.config/bash/init
+[[ -f ~/.config/bash/alias ]] && source ~/.config/bash/alias
+[[ -f ~/.config/bash/env ]] && source ~/.config/bash/env
 
 PS1='[\u@\h \W]\$ '
 
