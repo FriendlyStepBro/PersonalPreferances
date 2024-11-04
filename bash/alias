@@ -6,6 +6,7 @@ alias bat='bat --color=always'
 alias ibat='sxiv -A 10'
 alias svim='sudoedit'
 alias ~='/home/fsb'
+alias extract='~/.config/bash/scripts/extract'
 
 #--Config Commands
 alias updateConfig='echo <(cd ~/.config && git commit -a -m "Updated Config" && git fetch && git push)'
